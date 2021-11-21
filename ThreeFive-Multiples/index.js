@@ -7,20 +7,15 @@ function ThreeFiveMultiples(num) {
   }
 
   var container = []
+  var sum = 0
 
   for (var i = 0; i < arr.length; i++) {
     if ((arr[i] % 3) === 0 || (arr[i] % 5) === 0) {
-      container.push(arr[i])
+      container.push(sum += arr[i])
     }
   }
 
-  var sum = 0
-  for (var i = 0; i < container.length; i++) {
-    sum += container[i]
-  }
-  var result = sum
-
-  return result
+  return sum
 }
 
 // keep this function call here 
