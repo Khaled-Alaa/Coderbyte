@@ -16,4 +16,4 @@ Output: 12-36-18-6
 
 ## Problem Link
 
-- Coderbyte - [Other Products]https://coderbyte.com/editor/Other%20Products:JavaScript)
+- Coderbyte - [Other Products](https://coderbyte.com/editor/Other%20Products:JavaScript)
